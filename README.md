@@ -19,10 +19,9 @@ With the calculated body mass index, the program will then check if you are unde
 
 3) run the script by entering the command below into your terminal. 
 ```
-bash Advanced_System_Report.sh
+bash Body_Mass_Index.sh
 ```
-
-4)Finally, choose a number based on the system information you need.
+4)Finally, enter your height and weight when prompted.
 
 Thank you!
 
