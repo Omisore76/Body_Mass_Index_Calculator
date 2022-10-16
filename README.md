@@ -4,6 +4,8 @@
 
 The aim of the project is to develop a calculator using bash script to determine the BMI of a user. 
 
+![app!](Images/image_001.png)
+
 ## Introduction
 
 The body mass index (BMI) is a measure of body fat based on height and weight that applies to both adult men and women. BMI values are expressed in kg/m2 and are generally categorized as follows: underweight (BMI < 18.5 kg/m2), normal weight (BMI = 18.5-24.9 kg/m2), overweight (BMI = 25-29.9 kg/m2), and obese (BMI >= 30)
